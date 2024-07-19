@@ -29,5 +29,12 @@
 
 
 
+## *3nd Dashboard*
+
+![alt text](Dashboard_3.png)
+
+
+
+
 ## *Conclusion*
 *This project harnesses Tableau's capabilities to empower stakeholders with a dynamic platform for sales data analysis. The derived insights lead to informed decisions and refined sales strategies.*
